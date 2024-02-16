@@ -1,3 +1,6 @@
 [submodule "stm32/aioc-fw/Middlewares/Third-Party/tinyusb"]
 	path = stm32/aioc-fw/Middlewares/Third-Party/tinyusb
 	url = https://github.com/hathach/tinyusb.git
+[submodule "kicad/k1-aioc/hb9uf.pretty"]
+	path = kicad/k1-aioc/hb9uf.pretty
+	url = https://github.com/HB9UF/hb9uf.pretty.git
